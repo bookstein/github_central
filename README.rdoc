@@ -1,0 +1,4 @@
+== Github Central
+
+GH api key:
+repo and user permissions
